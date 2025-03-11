@@ -1,0 +1,27 @@
+body{
+    background-color: honeydew;
+    background-image: url("https://i.pinimg.com/736x/69/2b/ea/692bead3f6e3cd611491b28a0ca4418c.jpg");
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+#hard{
+    height: 50%;
+    width: 100%;
+}
+.chiikawa-char{
+    border-radius: 100%;
+}
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+    }
+    .chiikawa-char {
+        animation: rotate 3s linear infinite; /* Rotates every 3 seconds */
+    }
