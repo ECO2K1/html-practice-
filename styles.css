@@ -14,6 +14,23 @@ img{
 .chiikawa-char{
     border-radius: 100%;
 }
+.container{
+    display:flex;
+    flex-direction: column;
+}
+#row-one {
+
+}
+#row-two{
+    
+}
+/* #woke{
+    flex: 1 1 15%;
+}
+#woke-text{
+    flex: 1 1 15%;
+} */
+
 @keyframes rotate {
     from {
         transform: rotate(0deg);
@@ -25,3 +42,4 @@ img{
     .chiikawa-char {
         animation: rotate 3s linear infinite; /* Rotates every 3 seconds */
     }
+
