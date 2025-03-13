@@ -42,4 +42,13 @@ img{
     .chiikawa-char {
         animation: rotate 3s linear infinite; /* Rotates every 3 seconds */
     }
-
+.bleh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
