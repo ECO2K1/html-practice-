@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.d1057f711bf410c988752910ce17aa92?rik=xqel5Iqp7rVINw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-6zRZlrlVb4s%2fTxC-jZT549I%2fAAAAAAAAJeM%2fSJEwb2oRznw%2fs1600%2farticle-2085835-0F6D781400000578-455_638x689.jpg&ehk=BtyxZRntlZxztKrja4YX%2brCUDRciY9O1%2f2FcQ1AcNy8%3d&risl=&pid=ImgRaw&r=0);
+}
+.guh-container{
+    position: absolute;
+}
+.guh {
+    position:relative;
+    left: 118%;
+    height: 60%;
+    width: 60%;
+    display:flex;
+    flex-direction: column;
+}
+.dog {
+    height: 20%;
+    width: 20%;
+}
+.chopped {
+    height: 12%;
+    width: 12%;
+}
+
+    
